@@ -17,18 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to Anran li's academic homepage！
+Welcome to **Rui Chen**'s academic homepage！
 
-I graduated from [China Pharmaceutical University](https://www.cpu.edu.cn/)，and I am currently working as a formulation development engineer at [Aidea Pharma](https://aidea.com.cn/)  in Jiangsu, China. 
+I graduated from [China Pharmaceutical University](https://www.cpu.edu.cn/)，and I am currently working as a pharmaceutical synthesis engineer at [Aidea Pharma](https://aidea.com.cn/)  in Jiangsu, China. 
 
-I specialize in drug delivery, innovative drug discovery, 3D printed drugs and other research. 
+I specialize in drug design and synthesis , skilled in various CADD applications and other research.
 
-If you are looking for any kind of academic collaboration, please feel free to email me at lianran.cpu@gmail.com.
+If you are looking for any kind of academic collaboration, please feel free to email me at _chenrui.cpu@gmail.com_.
 
 If you want to know more about me, here is my [CV](/CV.pdf).
 
 <span class='anchor' id='News'></span>
 # 🔥 News
+- *2024.07*: &nbsp;🎉🎉 ACC017 durg patant researched by Jiangsu Aidi Chemical Pharmaceuticals R&D Department successfully passed patent examination.
 - *2024.05*: &nbsp;🎉🎉 ADC201 tablets researched by Jiangsu Aidi Chemical Pharmaceuticals R&D Department successfully passed bioequivalence experiments. 
 - *2024.04*: &nbsp;🎉🎉 ADC202 tablets developed by Jiangsu Aidi Chemical Formulation R&D Department successfully completed process scale-up production.
 
