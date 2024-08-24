@@ -59,6 +59,7 @@ Identification of a Novel ASCT2 (SLC1A5) Inhibitor by Dynamic Pharmacophore-Base
 <div class='paper-box-text' markdown="1">
 
 [DNA Framework-Engineered Chimeras Platform Enables Selectively Targeted Protein Degradation. Nat. Commun. 2023, 14 (1), 4510.](https://www.nature.com/articles/s41467-023-40244-7)
+
 Li Zhou, Bin Yu, Mengqiu Gao, **Rui Chen**, Zhiyu Li, Yueqing Gu, Jinlei Bian, Yi Ma
 
 **Project**
