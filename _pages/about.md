@@ -42,7 +42,7 @@ Identification of a Novel ASCT2 (SLC1A5) Inhibitor by Dynamic Pharmacophore-Base
 
 **Rui Chen**, iali Huang, Yumeng Chen, Lian Qin, Xiaofei Li, Haoming Chen, Yuxiao Wang, Zhiyu Li, Yuan Gao, Ahmed R. Ali, Jinlei Bian
 
-**Project**
+**Highlights**
 - Discovery of novel scaffold ASCT2 lead compounds through virtual screening and activity assaying workflows
 
 - Virtual screening workflows such as molecular dynamics simulations, molecular docking, and pharmacophore screening.
@@ -50,7 +50,6 @@ Identification of a Novel ASCT2 (SLC1A5) Inhibitor by Dynamic Pharmacophore-Base
 - Based on the lead compounds, studied the drug-target conformational relationship, combined with the protein crystal structure, through molecular docking and MD simulation, designed and synthesized 31 novel inhibitors
 
 - By screening for enzyme and cellular activity, obtained inhibitors with tumor cell inhibitory activity superior to positive drug V9302
-
 </div>
 </div>
 
@@ -61,22 +60,26 @@ Identification of a Novel ASCT2 (SLC1A5) Inhibitor by Dynamic Pharmacophore-Base
 
 Li Zhou, Bin Yu, Mengqiu Gao, **Rui Chen**, Zhiyu Li, Yueqing Gu, Jinlei Bian, Yi Ma
 
-**Project**
-- The aim of this study was to prepare OP 3D-printed tablets using 3D-printing technology to achieve consistent in vitro release with the reference formulation, as well as to examine the key process parameters during the 3D-printing process.
+**Highlights**
+- This paper developed a novel covalent DNA framework-based PROTACs (DbTACs), which can be used for a variety of different ligands and targets.
   
-- Dissolution morphology revealed that the 3D printed tablets dissolved mainly in surface dissolution, dissolution at multiple layers and side pore enlargement, which led to faster dissolution release and demonstrated the superiority of the model design.
+- The programmability of the DNA framework allows precise control of the spatial distance between the degradation target protein (POI) and the E3 ligase ligand.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2023</div><img src='images/15.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Li Lab 2023</div><img src='images/CDK9-1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Recent Advances of Pharmaceutical 3D Printing Extrusion Molding Technology, Acta Pharm Sin.58 (2023) 2640-2655.](https://www.yxxb.com.cn/aps/cn/article/doi/10.16438/j.0513-4870.2023-0112)
+[Discovery of Selective and Potent Macrocyclic CDK9 Inhibitors for the Treatment of Osimertinib-Resistant Non-Small-Cell Lung Cancer. J. Med. Chem. 2023, 66 (22), 15340–15361.](https://pubs.acs.org/doi/10.1021/acs.jmedchem.3c01400)
 
-Ke Zhang, Daoyi Zheng, **Anran li**, Siyuan Liu, Zhijun Wang, Chen Yu, Jiali Yu, Yuan Gao, Jianjun Zhang
+Tizhi Wu, Bin Yu, Yifan Xu, Zekun Du, Zhiming Zhang, Yuxiao Wang, Haoming Chen, Li′ao Zhang, **Rui Chen**, Feihai Ma, Weihong Gong, Sixian Yu, Zhixia Qiu, Hongxi Wu, Xi Xu, Jubo Wang, Zhiyu Li, Jinlei Bian
 
-**Project**
-- An overview of pharmacological research progress in 3D printing extrusion molding technology from six aspects: extrusion molding mechanism, equipment, auxiliary materials, design, application and industrialization prospect. 
+**Highlights**
+- Developed a novel macrocyclic CDK9 inhibitor for ositinib-resistant non-small cell lung cancer (NSCLC).
+
+- A series of CDK9 inhibitors were designed by macrocyclization strategy based on protein structure analysis.
+
+- The dominant compounds were highly kinase-selective and also exhibited significant antitumor activity against oxitinib-resistant strains.
 </div>
 </div>
 
