@@ -29,14 +29,13 @@ If you want to know more about me, here is my [CV](/CV.pdf).
 
 <span class='anchor' id='News'></span>
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 ACC017 durg patant researched by Jiangsu Aidi Chemical Pharmaceuticals R&D Department successfully passed patent examination.
-- *2024.05*: &nbsp;🎉🎉 ADC201 tablets researched by Jiangsu Aidi Chemical Pharmaceuticals R&D Department successfully passed bioequivalence experiments. 
-- *2024.04*: &nbsp;🎉🎉 ADC202 tablets developed by Jiangsu Aidi Chemical Formulation R&D Department successfully completed process scale-up production.
+- *2024.07*: &nbsp;🎉🎉 ACC017 durg patant researched by Jiangsu Aidea Chemical Pharmaceuticals R&D Department successfully passed patent examination.
+- *2024.05*: &nbsp;🎉🎉 ADC201 tablets researched by Jiangsu Aidea Chemical Pharmaceuticals R&D Department successfully passed bioequivalence experiments. 
 
 <span class='anchor' id='Publications'></span>
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2023</div><img src='images/11.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Li Lab 2023</div><img src='images/ASCT2-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Hybrid Deposition Modeling Technology for Preparing Rocket-separation 3D-print Tablet with Greater Compliance for the Treatment of Helicobacter Pylori InfectionRecognition (In Submission)
@@ -134,27 +133,27 @@ Research on Formulated Granules of Traditional Chinese Medicine [J]. China Yearb
 </div>
 <span class='anchor' id='honors'></span>
 # 🎖️ Honors and Awards 
-- *10/2022* The Second Prize, CPU Scholarship 
+- *10/2022*  The Second Prize, CPU Scholarship 
 
-- *10/2021* The Second Prize, CPU Scholarship 
+- *10/2021*  The Second Prize, CPU Scholarship 
 
-- *12/2020* The First Prize, CPU Freshman Graduate Student (Top 5%)
+- *12/2020*  The First Prize, CPU Freshman Graduate Student (Top 5%)
 
-- *06/2020* Shandong Province Outstanding Undergraduate Student Award (Top 1%) 
+- *06/2020*  Shandong Province Outstanding Undergraduate Student Award (Top 1%) 
 
-- *12/2019* The First Prize, SDUTCM Scholarship 
+- *12/2019*  The First Prize, SDUTCM Scholarship 
 
-- *09/2019* Provincial Team Silver Award, "Internet+" Innovation and Entrepreneurship Competition 
+- *09/2019*  Provincial Team Silver Award, "Internet+" Innovation and Entrepreneurship Competition 
 
-- *12/2018* The First Prize, SDUTCM Scholarship 
+- *12/2018*  The First Prize, SDUTCM Scholarship 
 
-- *12/2018* SDUTCM Excellent Student 
+- *12/2018*  SDUTCM Excellent Student 
 
-- *12/2018* SDUTCM Excellent Student Cadre 
+- *12/2018*  SDUTCM Excellent Student Cadre 
 
-- *11/2017* Outstanding Work, Communist Youth League of China Social Practice Competition
+- *11/2017*  Outstanding Work, Communist Youth League of China Social Practice Competition
 
-- *10/2017* Volunteer Activities for the Country People Excellent Student 
+- *10/2017*  Volunteer Activities for the Country People Excellent Student 
 
 <span class='anchor' id='Educations'></span>
 # 📖 Educations
@@ -254,3 +253,5 @@ Zhilin Duan, Jingwen Zhang, **Anran li**, Anjiang Hu, Xueming Li
 - *2022 - 2023*, Hosted and managed the innovation and entrepreneurship training program for university students
   
 - *2016 - 2020*, Class monitor during the university
+
+
