@@ -55,12 +55,11 @@ Identification of a Novel ASCT2 (SLC1A5) Inhibitor by Dynamic Pharmacophore-Base
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2023</div><img src='images/13.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Li Lab 2023</div><img src='images/DNA-1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-The Pharmaceutical and Computational Fluid Dynamics Study of 3D Printed OP Tablets (Co-author, In Submission)
-
-Siyuan Liu, Ke Zhang, **Anran li**, Zhijun Wang, Xiaofei Li, Jianbing Ren, Jianjun Zhang, Yunyi Shi, Yuan Gao, Shuai Qian, Yuanfeng Wei
+DNA framework-engineered chimeras platform enables selectively targeted protein degradation
+Li Zhou, Bin Yu, Mengqiu Gao, **Rui Chen**, Zhiyu Li, Yueqing Gu, Jinlei Bian, Yi Ma
 
 **Project**
 - The aim of this study was to prepare OP 3D-printed tablets using 3D-printing technology to achieve consistent in vitro release with the reference formulation, as well as to examine the key process parameters during the 3D-printing process.
