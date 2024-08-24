@@ -134,33 +134,27 @@ Research on Formulated Granules of Traditional Chinese Medicine [J]. China Yearb
 </div>
 <span class='anchor' id='honors'></span>
 # 🎖️ Honors and Awards 
-- *10/2021* The First Prize, CPU Scholarship (Top 5%)
+- *10/2022* The Second Prize, CPU Scholarship 
 
-- *12/2020* Outstanding Research Poster, Jiangsu Graduate TCM Innovation Forum
+- *10/2021* The Second Prize, CPU Scholarship 
 
-- *12/2020* Team First Prize, the Jiangsu Province Graduate Industrial Innovation Competition
-
-- *09/2020* The First Prize, CPU Freshman Graduate Student 
+- *12/2020* The First Prize, CPU Freshman Graduate Student (Top 5%)
 
 - *06/2020* Shandong Province Outstanding Undergraduate Student Award (Top 1%) 
 
-- *2016-2019* Consecutive 3-Year SDUTCM First Prize Scholarship Winner (Top 2%)
+- *12/2019* The First Prize, SDUTCM Scholarship 
 
-- *2016-2019* Consecutive 3-Year SDUTCM Excellent Student Cadre Winner
+- *09/2019* Provincial Team Silver Award, "Internet+" Innovation and Entrepreneurship Competition 
 
-- *09/2019* Provincial Team Silver Prize, “Internet+” Innovation and Entrepreneurship Competition
+- *12/2018* The First Prize, SDUTCM Scholarship 
 
-- *09/2019* Outstanding Student, SDUTCM “Si Yuan Cup” Scholarships (Top 1%) 
+- *12/2018* SDUTCM Excellent Student 
 
-- *04/2019* Second Prize, the 1st SDUTCM Tai Chi Competition
-
-- *12/2018* Gold Prize, SDUTCM Outstanding Student Scholarship (Top 1%) 
-
-- *12/2018* Provincial Team Third Prize, the 5th Shandong Tech Innovation Contest
+- *12/2018* SDUTCM Excellent Student Cadre 
 
 - *11/2017* Outstanding Work, Communist Youth League of China Social Practice Competition
 
-- *11/2016* Second Prize, the 16th SDUTCM Brush Calligraphy Contest
+- *10/2017* Volunteer Activities for the Country People Excellent Student 
 
 <span class='anchor' id='Educations'></span>
 # 📖 Educations
@@ -173,7 +167,7 @@ Research on Formulated Granules of Traditional Chinese Medicine [J]. China Yearb
 
 - *2016.09 - 2020.06*, Undergraduate, [School of Pharmacy](https://sps.sdutcm.edu.cn/) , [Shandong University of Traditional Chinese Medicine](https://www.sdutcm.edu.cn/) .
 
-  B.Sc. in Pharmaceutical Engineering (GPA: 3.29 / 4.00, Ranked 7rd)
+  B.Sc. in Pharmaceutical Engineering (GPA: 3.29 / 4.00, Ranked 7th)
 
   Guaranteed recommendation for postgraduate studies.
 
