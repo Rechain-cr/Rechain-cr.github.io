@@ -83,55 +83,34 @@ Tizhi Wu, Bin Yu, Yifan Xu, Zekun Du, Zhiming Zhang, Yuxiao Wang, Haoming Chen, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2023</div><img src='images/14.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Li Lab 2023</div><img src='images/CDK9-patent-1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mechanistic Study on Transformation of Coamorphous Baicalein-Nicotinamide to Its Cocrystal Form, J. Pharm. Sci. 112 (2023) 513–524.](https://webofscience.clarivate.cn/wos/alldb/full-record/WOS:000923155000001)
+[A Patent Review of Selective CDK9 Inhibitors in Treating Cancer. Expert Opin. Ther. Pat. 2023, 33 (4), 309–322.](https://www.tandfonline.com/doi/full/10.1080/13543776.2023.2208747)
 
-Fei Ding, Wei Cao, Renze Wang, Ning Wang, **Anran li**, Yuanfeng Wei, Shuai Qian, Jianjun Zhang, Yuan Gao, Zunting Pang
+Tizhi Wu, Xiaowei Wu, Yifan Xu, **Rui Chen**, Jubo Wang, Zhiyu Li, Jinlei Bian
 
-**Project**
-- In this paper, BCS II drug baicalein (BAI) along with nicotinamide (NIC) were prepared into a single homogeneous coamorphous system with a single transition temperature at 42.5 °C.
+**Highlights**
+- This review focuses on the development of selective CDK9 inhibitors reported in patent publications during the period 2020-2022.
   
-- This research not only discovered the mechanism of transformation from co-amorphous BAI-NIC to cocrystal form, but also provided an unusual method for cocrystal preparation from its co-amorphous form.
+- Selective targeting of CDK9 is considered an effective strategy for antitumor drug development.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2022</div><img src='images/8.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Li Lab 2023</div><img src='images/Glu-patent-1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Study on the Transdermal Properties of Chinese Medicine Plasters [J]. China Yearbook of Traditional Chinese Medicine (Academic Volume), 2022, 17 (06): 425-426.
+[An Updated Patent Review of Glutaminase Inhibitors (2019-2022). Expert Opin. Ther. Pat. 2023, 33 (1), 17–28.](https://www.tandfonline.com/doi/full/10.1080/13543776.2023.2173573)
 
-Maoli Huang, **Anran li**, Shuai Qian
+Danni Wang, Xiaohong Li, Guangyue Gong, Yulong Lu, Ziming Guo, **Rui Chen**, Huidan Huang, Zhiyu Li, Jinlei Bian
 
-**Project**
-- Literature review and analysis of active ingredients, matrix types, and quality evaluation of Chinese medicine plasters. 
+**Highlights**
+- This review covers recent patents (2019-present) involving GLS1 inhibitors, which are mostly focused on their chemical structures, molecular mechanisms of action, pharmacokinetic properties, and potential clinical applications.
+  
+- Selective targeting of CDK9 is considered an effective strategy for antitumor drug development.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2022</div><img src='images/8.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Crystal engineering technology to improve the drug-forming properties of traditional Chinese medicine [J]. China Yearbook of Traditional Chinese Medicine (Academic Volume), 22022, 17 (06): 428-429.
-
-Huina Liu, **Anran li**, Shuai Qian
-
-**Project**
-- Crystal engineering, as a technical means that can change the crystal structure and intermolecular interactions of drugs at the molecular level, can effectively optimize the physicochemical properties of active ingredients in traditional Chinese medicine and improve in vivo behavior and drug-forming properties. 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2021</div><img src='images/7.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Research on Formulated Granules of Traditional Chinese Medicine [J]. China Yearbook of Traditional Chinese Medicine (Academic Volume), 2021, 16 (05): 423-424.
-
-**Anran li**, Hengqing Zhu, Shuai Qian
-
-**Project**
-- Literature review and analysis of the development history, standardization and industrial production, and quality control of Chinese medicine formula granules. 
-</div>
-</div>
 <span class='anchor' id='honors'></span>
 # 🎖️ Honors and Awards 
 - *10/2022*  The Second Prize, CPU Scholarship 
