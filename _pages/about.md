@@ -256,8 +256,6 @@ Zhilin Duan, Jingwen Zhang, **Anran li**, Anjiang Hu, Xueming Li
 
 <span class='anchor' id='Extracurricular_activity'></span>
 # 💻 Extracurricular activity
-- *2018.08 - Present*, Shandong Candlelight Volunteer Association Member
+- *2022 - 2023*, Hosted and managed the innovation and entrepreneurship training program for university students
   
-- *2018.09 - 2019.09*, Director of the Network Department, SDUTCM Student Union
-  
-- *2017.09 - 2018.09*, Director of the Propaganda Department , SDUTCM Student Union
+- *2016 - 2020*, Class monitor during the university
