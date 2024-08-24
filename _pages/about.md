@@ -35,24 +35,23 @@ If you want to know more about me, here is my [CV](/CV.pdf).
 <span class='anchor' id='Publications'></span>
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Li Lab 2023</div><img src='images/ASCT2-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Li Lab 2023</div><img src='images/ASCT2-1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Hybrid Deposition Modeling Technology for Preparing Rocket-separation 3D-print Tablet with Greater Compliance for the Treatment of Helicobacter Pylori InfectionRecognition (In Submission)
+Identification of a Novel ASCT2 (SLC1A5) Inhibitor by Dynamic Pharmacophore-Based Virtual Screening (In Submission)
 
 **paper**:
-- **Anran li**, Ke Zhang, Zhijun Wang, Siyuan Liu, Xiaofei Li, Jianbing Ren, Jianjun Zhang, Yunyi Shi, Yuan Gao, Shuai Qian, Yuanfeng Wei
-
-**patent**：
-- [3D Printed Combined Tablet for Treating Helicobacter Pylori Infection: CN 116019776. 2023-04-28.](https://www.webofscience.com/wos/alldb/full-record/DIIDW:202348080W)
-- Yuan Gao, **Anran li**, Ke Zhang, Zhijun Wang, Jianjun Zhang, Shuai Qian, Yuanfeng Wei
+- **Rui Chen**, iali Huang, Yumeng Chen, Lian Qin, Xiaofei Li, Haoming Chen, Yuxiao Wang, Zhiyu Li, Yuan Gao, Ahmed R. Ali, Jinlei Bian
 
 **Project**
-- First proposed Hybrid Deposition Modeling (HDM) technology
+- Discovery of novel scaffold ASCT2 lead compounds through virtual screening and activity assaying workflows
 
-- Prepared 3D-printed combination tablets realize four drugs in one tablet with complex release behavior suitable for actual clinical needs.
+- Virtual screening workflows such as molecular dynamics simulations, molecular docking, and pharmacophore screening.
 
-- 3D printed combination tablets will minimize the chance of missed or wrong dosing, while greatly enhance patient compliance.
+- Based on the lead compounds, studied the drug-target conformational relationship, combined with the protein crystal structure, through molecular docking and MD simulation, designed and synthesized 31 novel inhibitors
+
+- By screening for enzyme and cellular activity, obtained inhibitors with tumor cell inhibitory activity superior to positive drug V9302
+
 </div>
 </div>
 
