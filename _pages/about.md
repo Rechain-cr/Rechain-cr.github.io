@@ -164,19 +164,20 @@ Research on Formulated Granules of Traditional Chinese Medicine [J]. China Yearb
 
 <span class='anchor' id='Educations'></span>
 # 📖 Educations
-- *2020.09 - 2023.06*, Master, [School of Traditional Chinese Medicine](https://zyxy.cpu.edu.cn/) , [China Pharmaceutical University](https://www.cpu.edu.cn/) .
+- *2020.09 - 2023.06*, Master, [School of Pharmacy](https://yxy.cpu.edu.cn/enyxy/) , [China Pharmaceutical University](https://www.cpu.edu.cn/) .
 
-  M.S. in New Dosage Forms and Technologies (GPA: 3.96 / 4.00, Ranked 4th)
+  M.S. in Pharmacy (GPA: 4.0 / 4.00, Ranked 8th)
 
-  I study in the [GZ lab](https://www.bilibili.com/video/BV1UP411G71P/?spm_id_from=333.337.search-card.all.click&vd_source=ae8ea3afa19f5ec07e1321d2017a1356) , which is a big friendly family, and my mentors are [Yuan Gao](https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/3D8781FBE4186D182BD0FC68776F2490) , [Jianjun Zhang](https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/02182478A3C5932F224A276105C378E0 ) , [Shuai Qian](https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/050FEF684651B429BBB1F1A0C667BB5A)  and [Yuanfeng Wei](https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/E598FC022E9301FE080997084F2AC620) .
+  I study in the Zhiyu Li lab , which is a big friendly family, and my mentors are [Zhiyu Li](https://yxy.cpu.edu.cn/a4/4e/c11941a173134/page.htm) and [Jinlei Bian](https://yxy.cpu.edu.cn/f2/6d/c11941a193133/page.htm).
+  
 
 - *2016.09 - 2020.06*, Undergraduate, [School of Pharmacy](https://sps.sdutcm.edu.cn/) , [Shandong University of Traditional Chinese Medicine](https://www.sdutcm.edu.cn/) .
 
-  B.Sc. in Pharmaceutical Engineering (GPA: 3.20 / 4.00, Ranked 3rd)
+  B.Sc. in Pharmaceutical Engineering (GPA: 3.29 / 4.00, Ranked 7rd)
 
   Guaranteed recommendation for postgraduate studies.
 
-- *2013.09 - 2016.06*, Yanggu No.1 High School, Liaocheng
+- *2013.09 - 2016.06*, Shandong Taian No.1 Senior High School, Taian
 
 <span class='anchor' id='Research_experience'></span>
 # 👩‍🔬 Research experience
