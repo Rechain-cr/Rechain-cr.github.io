@@ -111,6 +111,20 @@ Danni Wang, Xiaohong Li, Guangyue Gong, Yulong Lu, Ziming Guo, **Rui Chen**, Hui
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Li Lab 2023</div><img src='images/SARMs-1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Overview of the Development of Selective Androgen Receptor Modulators (SARMs) as Pharmacological Treatment for Osteoporosis (1998-2021). Eur. J. Med. Chem. 2022, 230, 114-119.](https://www.sciencedirect.com/science/article/abs/pii/S0223523422000216?via%3Dihub)
+
+Youquan Xie, Yucheng Tian, Yuming Zhang, Zhisheng Zhang, Rui Chen, Mian Li, Jiawei Tang, Jinlei Bian, Zhiyu Li, XiXu
+
+**Highlights**
+- Summary of chemical scaffolds and corresponding SAR of SARMs as pharmacological treatment for osteoporosis from 1998 to 2021.
+  
+- Insight into advances and possible mechanisms of the potential toxicity, side effects, the abuse, and future perspectives of SARMs.
+</div>
+</div>
+
 <span class='anchor' id='honors'></span>
 # 🎖️ Honors and Awards 
 - *10/2022*  The Second Prize, CPU Scholarship 
