@@ -40,7 +40,7 @@ If you want to know more about me, here is my [CV](/CV.pdf).
 
 Identification of a Novel ASCT2 (SLC1A5) Inhibitor by Dynamic Pharmacophore-Based Virtual Screening (In Submission)
 
-**Rui Chen**, iali Huang, Yumeng Chen, Lian Qin, Xiaofei Li, Haoming Chen, Yuxiao Wang, Zhiyu Li, Yuan Gao, Ahmed R. Ali, Jinlei Bian
+**Rui Chen**, Jiali Huang, Yumeng Chen, Lian Qin, Xiaofei Li, Haoming Chen, Yuxiao Wang, Zhiyu Li, Ahmed R. Ali, Jinlei Bian
 
 **Highlights**
 - Discovery of novel scaffold ASCT2 lead compounds through virtual screening and activity assaying workflows
@@ -167,7 +167,7 @@ Youquan Xie, Yucheng Tian, Yuming Zhang, Zhisheng Zhang, Rui Chen, Mian Li, Jiaw
 - *2013.09 - 2016.06*, Shandong Taian No.1 Senior High School, Taian
 
 <span class='anchor' id='Research_experience'></span>
-# 👩‍🔬 Research experience
+# 👨‍🔬 Research experience
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022-2023</div><img src='images/2022-2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
