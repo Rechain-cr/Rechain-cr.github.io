@@ -174,11 +174,11 @@ Youquan Xie, Yucheng Tian, Yuming Zhang, Zhisheng Zhang, Rui Chen, Mian Li, Jiaw
 **2022-2023**
 
 **Projects**
-- Establishment of a laboratory computer-aided drug design platform
+- Establishment of a laboratory computer-aided drug design platform, complete CADD studies including molecular docking and molecular dynamics simulations in other topics in the lab
   
-- Designing novel LAT1 inhibitors and assisting undergraduate students with their reviews
+- Designing novel LAT1 inhibitors, supervise undergraduate students in research programs and laboratory operation, asassisting undergraduate students with their review article
 
-- Research on ASCT2 topics and completion of the thesis
+- Research on ASCT2 topics, completed virtual screening of compounds, synthesis of compounds, exploration of conformational relationships, bioactivity testing, and successful completion of graduate thesis
 </div>
 </div>
 
@@ -188,11 +188,11 @@ Youquan Xie, Yucheng Tian, Yuming Zhang, Zhisheng Zhang, Rui Chen, Mian Li, Jiaw
 **2021-2022**
 
 **Projects**
-- Learn CADD skills including molecular dynamics (MD) simulation and virtual screening
+- Learn CADD skills including molecular dynamics simulation，molecular docking and virtual screening
   
-- Refinement of the DbTACs program for molecular docking of targeted proteins to ligands
+- Refinement of the DbTACs program for molecular docking of targeted proteins to ligands and complete the synthesis of the compounds in the program
 
-- Participated in a project to optimize the synthesis process of JAK inhibitors
+- Participated in a project to optimize the synthesis process of novel JAK inhibitors, completed the process optimization steps, and successfully produced hundred grams of product for testing
 
 - Participation in the DON program for compound modification
 </div>
