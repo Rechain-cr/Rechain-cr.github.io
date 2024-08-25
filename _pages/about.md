@@ -182,7 +182,7 @@ Youquan Xie, Yucheng Tian, Yuming Zhang, Zhisheng Zhang, Rui Chen, Mian Li, Jiaw
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022-2023</div><img src='images/2021-2022.JPG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021-2022</div><img src='images/2021-2022.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **2021-2022**
