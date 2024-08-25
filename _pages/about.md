@@ -43,13 +43,13 @@ Identification of a Novel ASCT2 (SLC1A5) Inhibitor by Dynamic Pharmacophore-Base
 **Rui Chen**, iali Huang, Yumeng Chen, Lian Qin, Xiaofei Li, Haoming Chen, Yuxiao Wang, Zhiyu Li, Yuan Gao, Ahmed R. Ali, Jinlei Bian
 
 **Highlights**
-- Discovery of novel scaffold ASCT2 lead compounds through virtual screening and activity assaying workflows
+- Discovery of novel scaffold ASCT2 lead compounds through virtual screening and activity assaying workflows.
 
 - Virtual screening workflows such as molecular dynamics simulations, molecular docking, and pharmacophore screening.
 
-- Based on the lead compounds, studied the drug-target conformational relationship, combined with the protein crystal structure, through molecular docking and MD simulation, designed and synthesized 31 novel inhibitors
+- Based on the lead compounds, studied the drug-target conformational relationship, combined with the protein crystal structure, through molecular docking and MD simulation, designed and synthesized 31 novel inhibitors.
 
-- By screening for enzyme and cellular activity, obtained inhibitors with tumor cell inhibitory activity superior to positive drug V9302
+- By screening for enzyme and cellular activity, obtained inhibitors with tumor cell inhibitory activity superior to positive drug V9302.
 </div>
 </div>
 
