@@ -43,13 +43,13 @@ Identification of a Novel ASCT2 (SLC1A5) Inhibitor by Dynamic Pharmacophore-Base
 **Rui Chen**, iali Huang, Yumeng Chen, Lian Qin, Xiaofei Li, Haoming Chen, Yuxiao Wang, Zhiyu Li, Yuan Gao, Ahmed R. Ali, Jinlei Bian
 
 **Highlights**
-- Discovery of novel scaffold ASCT2 lead compounds through virtual screening and activity assaying workflows.
+- Discovery of novel scaffold ASCT2 lead compounds through virtual screening and activity assaying workflows
 
-- Virtual screening workflows such as molecular dynamics simulations, molecular docking, and pharmacophore screening.
+- Virtual screening workflows such as molecular dynamics simulations, molecular docking, and pharmacophore screening
 
-- Based on the lead compounds, studied the drug-target conformational relationship, combined with the protein crystal structure, through molecular docking and MD simulation, designed and synthesized 31 novel inhibitors.
+- Based on the lead compounds, studied the drug-target conformational relationship, combined with the protein crystal structure, through molecular docking and MD simulation, designed and synthesized 31 novel inhibitors
 
-- By screening for enzyme and cellular activity, obtained inhibitors with tumor cell inhibitory activity superior to positive drug V9302.
+- By screening for enzyme and cellular activity, obtained inhibitors with tumor cell inhibitory activity superior to positive drug V9302
 </div>
 </div>
 
@@ -61,9 +61,9 @@ Identification of a Novel ASCT2 (SLC1A5) Inhibitor by Dynamic Pharmacophore-Base
 Li Zhou, Bin Yu, Mengqiu Gao, **Rui Chen**, Zhiyu Li, Yueqing Gu, Jinlei Bian, Yi Ma
 
 **Highlights**
-- This paper developed a novel covalent DNA framework-based PROTACs (DbTACs), which can be used for a variety of different ligands and targets.
+- This paper developed a novel covalent DNA framework-based PROTACs (DbTACs), which can be used for a variety of different ligands and targets
   
-- The programmability of the DNA framework allows precise control of the spatial distance between the degradation target protein (POI) and the E3 ligase ligand.
+- The programmability of the DNA framework allows precise control of the spatial distance between the degradation target protein (POI) and the E3 ligase ligand
 </div>
 </div>
 
@@ -75,11 +75,11 @@ Li Zhou, Bin Yu, Mengqiu Gao, **Rui Chen**, Zhiyu Li, Yueqing Gu, Jinlei Bian, Y
 Tizhi Wu, Bin Yu, Yifan Xu, Zekun Du, Zhiming Zhang, Yuxiao Wang, Haoming Chen, Li′ao Zhang, **Rui Chen**, Feihai Ma, Weihong Gong, Sixian Yu, Zhixia Qiu, Hongxi Wu, Xi Xu, Jubo Wang, Zhiyu Li, Jinlei Bian
 
 **Highlights**
-- Developed a novel macrocyclic CDK9 inhibitor for ositinib-resistant non-small cell lung cancer (NSCLC).
+- Developed a novel macrocyclic CDK9 inhibitor for ositinib-resistant non-small cell lung cancer (NSCLC)
 
-- A series of CDK9 inhibitors were designed by macrocyclization strategy based on protein structure analysis.
+- A series of CDK9 inhibitors were designed by macrocyclization strategy based on protein structure analysis
 
-- The dominant compounds were highly kinase-selective and also exhibited significant antitumor activity against oxitinib-resistant strains.
+- The dominant compounds were highly kinase-selective and also exhibited significant antitumor activity against oxitinib-resistant strains
 </div>
 </div>
 
@@ -91,9 +91,9 @@ Tizhi Wu, Bin Yu, Yifan Xu, Zekun Du, Zhiming Zhang, Yuxiao Wang, Haoming Chen, 
 Tizhi Wu, Xiaowei Wu, Yifan Xu, **Rui Chen**, Jubo Wang, Zhiyu Li, Jinlei Bian
 
 **Highlights**
-- This review focuses on the development of selective CDK9 inhibitors reported in patent publications during the period 2020-2022.
+- This review focuses on the development of selective CDK9 inhibitors reported in patent publications during the period 2020-2022
   
-- Selective targeting of CDK9 is considered an effective strategy for antitumor drug development.
+- Selective targeting of CDK9 is considered an effective strategy for antitumor drug development
 </div>
 </div>
 
@@ -105,9 +105,9 @@ Tizhi Wu, Xiaowei Wu, Yifan Xu, **Rui Chen**, Jubo Wang, Zhiyu Li, Jinlei Bian
 Danni Wang, Xiaohong Li, Guangyue Gong, Yulong Lu, Ziming Guo, **Rui Chen**, Huidan Huang, Zhiyu Li, Jinlei Bian
 
 **Highlights**
-- This review covers recent patents (2019-present) involving GLS1 inhibitors, which are mostly focused on their chemical structures, molecular mechanisms of action, pharmacokinetic properties, and potential clinical applications.
+- This review covers recent patents (2019-present) involving GLS1 inhibitors, which are mostly focused on their chemical structures, molecular mechanisms of action, pharmacokinetic properties, and potential clinical applications
   
-- Selective targeting of CDK9 is considered an effective strategy for antitumor drug development.
+- Selective targeting of CDK9 is considered an effective strategy for antitumor drug development
 </div>
 </div>
 
@@ -168,17 +168,17 @@ Youquan Xie, Yucheng Tian, Yuming Zhang, Zhisheng Zhang, Rui Chen, Mian Li, Jiaw
 
 <span class='anchor' id='Research_experience'></span>
 # 👩‍🔬 Research experience
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2022</div><img src='images/6.JPG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022-2023</div><img src='images/2022-2023.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Building the 4th Generation 3D Printer for Drug Printing with HME Technology**
+**2022-2023**
 
-**Anran li**, Zhijun Wang
-
-**Project**
-- This HDM technology printer was built for the first time to fulfill the idea of hybrid printing with multiple technologies.
+**Projects**
+- Establishment of a laboratory computer-aided drug design platform
   
-- Combined tablets with "rocket separation" release behavior were prepared using this machine.
+- Designing novel LAT1 inhibitors and assisting undergraduate students with their reviews
+
+- Research on ASCT2 topics and completion of the thesis
 </div>
 </div>
 
