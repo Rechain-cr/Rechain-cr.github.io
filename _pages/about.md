@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/6f782015-cd2c-47ae-bc39-8e29dae74805)---
 permalink: /
 title: ""
 excerpt: ""
@@ -168,33 +168,109 @@ Youquan Xie, Yucheng Tian, Yuming Zhang, Zhisheng Zhang, Rui Chen, Mian Li, Jiaw
 
 <span class='anchor' id='Research_experience'></span>
 # 👨‍🔬 Research experience
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022-2023</div><img src='images/2022-2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023-2024</div><img src='images/aidea-1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**2023-2024**
+
+**Projects**
+- Participated in the ACC017 project to design and synthesize relevant long-acting prodrugs by protecting possible metabolic sites of the drugs, and performed bioactivity tests to discover integrase inhibitors with novel structures
+  
+- Participated in the ACC027 project to explore novel coat protease inhibitors through molecular docking and molecular dynamics simulation combined with rational drug design
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022-2023</div><img src='images/ASCT2-2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **2022-2023**
 
 **Projects**
-- Establishment of a laboratory computer-aided drug design platform, complete CADD studies including molecular docking and molecular dynamics simulations in other topics in the lab
+- ASCT2 subject refinement and completion of molecular dynamics modeling of ASCT2-related proteins and compounds
+
+- Completion of work related to the modification, design and synthesis of target compounds
+
+- Writing and defending a thesis
   
-- Designing novel LAT1 inhibitors, supervise undergraduate students in research programs and laboratory operation, asassisting undergraduate students with their review article
-
-- Research on ASCT2 topics, completed virtual screening of compounds, synthesis of compounds, exploration of conformational relationships, bioactivity testing, and successful completion of graduate thesis
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021-2022</div><img src='images/2021-2022.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022-2023</div><img src='images/studyCADD-1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**2022-2023**
+
+**Projects**
+- Help labs purchase and build high-performance computer hardware and build CADD workstations
+
+- Completed molecular docking and molecular dynamics simulation calculations and mapping in several topics
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022-2023</div><img src='images/LAT1-1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**2022-2023**
+
+**Projects**
+- Supervise undergraduate experiments and assist in the advancement of LAT1 target projects involving undergraduate students
+
+- Assist undergraduate students with review writing
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021-2022</div><img src='images/JAK-1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **2021-2022**
 
 **Projects**
-- Learn CADD skills including molecular dynamics simulation，molecular docking and virtual screening
-  
-- Refinement of the DbTACs program for molecular docking of targeted proteins to ligands and complete the synthesis of the compounds in the program
+- Participated in the process optimization process of the new JAK inhibitor, optimized some process parameters and improved the overall yield
 
-- Participated in a project to optimize the synthesis process of novel JAK inhibitors, completed the process optimization steps, and successfully produced hundred grams of product for testing
+- Improved recrystallization parameters for compound intermediates resulted in rapid synthesis of kilogram-sized products
 
-- Participation in the DON program for compound modification
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021-2022</div><img src='images/studyCADD-2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**2021-2022**
+
+**Projects**
+- Learning the molecular docking process on your own, exploring the application of molecular docking in drug design, and outputting results using software such as Pymol
+
+- Self-study kinetic simulation tutorials to master drug molecule interactions in proteins and guide drug design efforts
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021-2022</div><img src='images/DNA-2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**2021-2022**
+
+**Projects**
+- Participated in the synthesis and design of warhead compounds for DbTACs and screened several linkage chains of different lengths
+
+- Complete protein-DNA docking in DbTACs to generate and optimize images for experiments
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021-2022</div><img src='images/DON-1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**2021-2022**
+
+**Projects**
+- Participated in the design and synthesis of a series of DON prodrugs.
+
+- Improved the original toxic effects of DON through the design of the prodrug, and improved the plasma stability and tolerability of DON
+
 </div>
 </div>
 
