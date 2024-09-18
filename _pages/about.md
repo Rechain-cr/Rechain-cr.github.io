@@ -53,6 +53,26 @@ Identification of a Novel ASCT2 (SLC1A5) Inhibitor by Dynamic Pharmacophore-Base
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Li Lab 2023</div><img src='images/CLK2-1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Discovery of CLK2 Inhibitors for the Treatment of Non-small Cell Lung Cancer (In Submission)
+
+Tianxing Hu, Hui Zhang, **Rui Chen**, Mai Liu, Wenyi Zhou, Depeng Li, Zhiyu Li, Jinlei Bian (First author, co-authored by 3)
+
+**Highlights**
+- Design and synthesis of novel CLK2 inhibitors
+
+- LBM22 has significant antiproliferative activity in H1299 cells
+
+- LBM22 can dose-dependently inhibit SR protein phosphorylation
+
+- LBM22 down-regulates the expression of Wnt-related proteins and anti-apoptotic proteins
+
+- CLK2 inhibitors show promise for the treatment of NSCLC
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Li Lab 2023</div><img src='images/DNA-1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -195,6 +215,24 @@ Youquan Xie, Yucheng Tian, Yuming Zhang, Zhisheng Zhang, Rui Chen, Mian Li, Jiaw
   
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022-2023</div><img src='images/CLK2-2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**2022-2023**
+
+**Projects**
+- Discovery of novel CLK2 inhibitors based on structure‐based drug design
+
+- Enhanced water solubility and formulation properties of the lead compound
+
+- Improved antiproliferative activity against H1299 cells
+
+- Co-first author, published in Eur. J. Med. Chem., under minor revision
+  
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022-2023</div><img src='images/studyCADD-1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
