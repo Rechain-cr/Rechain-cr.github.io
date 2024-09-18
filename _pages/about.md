@@ -58,7 +58,7 @@ Identification of a Novel ASCT2 (SLC1A5) Inhibitor by Dynamic Pharmacophore-Base
 
 Discovery of CLK2 Inhibitors for the Treatment of Non-small Cell Lung Cancer (In Submission)
 
-Tianxing Hu, Hui Zhang, **Rui Chen**, Mai Liu, Wenyi Zhou, Depeng Li, Zhiyu Li, Jinlei Bian (First author, co-authored by 3)
+Tianxing Hu, Hui Zhang, **Rui Chen**, Jiangli Huang, Mai Liu, Wenyi Zhou, Depeng Li, Zhiyu Li, Jinlei Bian (First author, co-authored by 3)
 
 **Highlights**
 - Design and synthesis of novel CLK2 inhibitors
