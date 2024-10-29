@@ -120,7 +120,7 @@ Tizhi Wu, Xiaowei Wu, Yifan Xu, **Rui Chen**, Jubo Wang, Zhiyu Li, Jinlei Bian
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Li Lab 2023</div><img src='images/Glu-patent-1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[An Updated Patent Review of Glutaminase Inhibitors (2019-2022). Expert Opin. Ther. Pat. 2023, 33 (1), 17–28.](https://www.tandfonline.com/doi/full/10.1080/13543776.2023.2173573)
+[An Updated Patent Review of Glutaminase Inhibitors (2019-2022). _Expert Opin. Ther. Pat._ 2023, 33 (1), 17–28.](https://www.tandfonline.com/doi/full/10.1080/13543776.2023.2173573)
 
 Danni Wang, Xiaohong Li, Guangyue Gong, Yulong Lu, Ziming Guo, **Rui Chen**, Huidan Huang, Zhiyu Li, Jinlei Bian
 
