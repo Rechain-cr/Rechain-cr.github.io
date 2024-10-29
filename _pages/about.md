@@ -56,7 +56,7 @@ Identification of a Novel ASCT2 (SLC1A5) Inhibitor by Dynamic Pharmacophore-Base
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Li Lab 2023</div><img src='images/CLK2-1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Discovery of CLK2 Inhibitors for the Treatment of Non-small Cell Lung Cancer (In Submission)
+[Discovery of CLKs Inhibitors for the Treatment of Non-small Cell Lung Cancer _Eur. J. Med. Chem._ 2024, 280, 116952](https://www.sciencedirect.com/science/article/abs/pii/S022352342400833X)
 
 Tianxing Hu, Hui Zhang, **Rui Chen**, Jiangli Huang, Mai Liu, Wenyi Zhou, Depeng Li, Zhiyu Li, Jinlei Bian (First author, co-authored by 3)
 
@@ -76,7 +76,7 @@ Tianxing Hu, Hui Zhang, **Rui Chen**, Jiangli Huang, Mai Liu, Wenyi Zhou, Depeng
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Li Lab 2023</div><img src='images/DNA-1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DNA Framework-Engineered Chimeras Platform Enables Selectively Targeted Protein Degradation. Nat. Commun. 2023, 14 (1), 4510.](https://www.nature.com/articles/s41467-023-40244-7)
+[DNA Framework-Engineered Chimeras Platform Enables Selectively Targeted Protein Degradation. _Nat. Commun._ 2023, 14 (1), 4510.](https://www.nature.com/articles/s41467-023-40244-7)
 
 Li Zhou, Bin Yu, Mengqiu Gao, **Rui Chen**, Zhiyu Li, Yueqing Gu, Jinlei Bian, Yi Ma
 
@@ -90,7 +90,7 @@ Li Zhou, Bin Yu, Mengqiu Gao, **Rui Chen**, Zhiyu Li, Yueqing Gu, Jinlei Bian, Y
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Li Lab 2023</div><img src='images/CDK9-1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Discovery of Selective and Potent Macrocyclic CDK9 Inhibitors for the Treatment of Osimertinib-Resistant Non-Small-Cell Lung Cancer. J. Med. Chem. 2023, 66 (22), 15340–15361.](https://pubs.acs.org/doi/10.1021/acs.jmedchem.3c01400)
+[Discovery of Selective and Potent Macrocyclic CDK9 Inhibitors for the Treatment of Osimertinib-Resistant Non-Small-Cell Lung Cancer. _J. Med. Chem._ 2023, 66 (22), 15340–15361.](https://pubs.acs.org/doi/10.1021/acs.jmedchem.3c01400)
 
 Tizhi Wu, Bin Yu, Yifan Xu, Zekun Du, Zhiming Zhang, Yuxiao Wang, Haoming Chen, Li′ao Zhang, **Rui Chen**, Feihai Ma, Weihong Gong, Sixian Yu, Zhixia Qiu, Hongxi Wu, Xi Xu, Jubo Wang, Zhiyu Li, Jinlei Bian
 
@@ -106,7 +106,7 @@ Tizhi Wu, Bin Yu, Yifan Xu, Zekun Du, Zhiming Zhang, Yuxiao Wang, Haoming Chen, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Li Lab 2023</div><img src='images/CDK9-patent-1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Patent Review of Selective CDK9 Inhibitors in Treating Cancer. Expert Opin. Ther. Pat. 2023, 33 (4), 309–322.](https://www.tandfonline.com/doi/full/10.1080/13543776.2023.2208747)
+[A Patent Review of Selective CDK9 Inhibitors in Treating _Cancer. Expert Opin. Ther. Pat._ 2023, 33 (4), 309–322.](https://www.tandfonline.com/doi/full/10.1080/13543776.2023.2208747)
 
 Tizhi Wu, Xiaowei Wu, Yifan Xu, **Rui Chen**, Jubo Wang, Zhiyu Li, Jinlei Bian
 
@@ -134,7 +134,7 @@ Danni Wang, Xiaohong Li, Guangyue Gong, Yulong Lu, Ziming Guo, **Rui Chen**, Hui
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Li Lab 2022</div><img src='images/SARMs-1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Overview of the Development of Selective Androgen Receptor Modulators (SARMs) as Pharmacological Treatment for Osteoporosis (1998-2021). Eur. J. Med. Chem. 2022, 230, 114-119.](https://www.sciencedirect.com/science/article/abs/pii/S0223523422000216?via%3Dihub)
+[Overview of the Development of Selective Androgen Receptor Modulators (SARMs) as Pharmacological Treatment for Osteoporosis (1998-2021). _Eur. J. Med. Chem._ 2022, 230, 114-119.](https://www.sciencedirect.com/science/article/abs/pii/S0223523422000216?via%3Dihub)
 
 Youquan Xie, Yucheng Tian, Yuming Zhang, Zhisheng Zhang, Rui Chen, Mian Li, Jiawei Tang, Jinlei Bian, Zhiyu Li, XiXu
 
