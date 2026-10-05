@@ -168,8 +168,7 @@ Youquan Xie, Yucheng Tian, Yuming Zhang, Zhisheng Zhang, **Rui Chen**, Mian Li, 
 
 <span class='anchor' id='honors'></span>
 # 🎖️ Honors and Awards 
-- *11/2025*  **Bronze Award**, AI for Science Track, 2nd Global Digital-Intelligence Education Innovation Competition (Peking University)
-  <img src='images/AI_for_science-cert.jpg' alt="AI for Science competition certificate" width="45%">
+- *11/2025*  **Bronze Award (Team lead)**, AI for Science Track, 2nd Global Digital-Intelligence Education Innovation Competition (Peking University)
 
 - *10/2022*  The Second Prize, CPU Scholarship 
 
@@ -363,7 +362,9 @@ Youquan Xie, Yucheng Tian, Yuming Zhang, Zhisheng Zhang, **Rui Chen**, Mian Li, 
 
 - *2025*, Team lead, AI for Science Track, 2nd Global Digital-Intelligence Education Innovation Competition (Peking University) — led a four-person team building an AI-assisted automated synthesis workflow.
 
-  <img src='images/AI_for_science-team.jpg' alt="AI for Science competition — team in the laboratory" width="70%">
+  <img src='images/AI_for_science-team.jpg' alt="AI for Science competition — team in the laboratory" width="62%">
+
+  <img src='images/AI_for_science-cert.jpg' alt="AI for Science competition — award certificate" width="34%">
 
 - *2022 - 2023*, Hosted and managed the innovation and entrepreneurship training program for university students
 
