@@ -40,37 +40,19 @@ If you want to know more about me, here is my [CV](/CV.pdf) and my [Research Sta
 # 🔥 News
 
 - *2025.11*: &nbsp;🎉 Bronze Award, **AI for Science Track**, 2nd Global Digital-Intelligence Education Innovation Competition (Peking University). Team lead; designed the automated synthesis workflow and delivered the project presentation.
-- *2024.10*: &nbsp;🎉 Our work on CLK2 inhibitors for non-small cell lung cancer was published in *Eur. J. Med. Chem.* (co-first author, ranked 3rd of six).
+- *2024.10*: &nbsp;🎉 Our work on CLK2 inhibitors for non-small cell lung cancer was published in *Eur. J. Med. Chem.* (joint first author; one of three).
 - *2023.07*: &nbsp;🎉 Joined Jiangsu Aidea Pharmaceutical as a medicinal chemist, working on HIV antiviral discovery and process development.
 - *2023.06*: &nbsp;🎉 Graduated from China Pharmaceutical University with an M.Sc. in Pharmacy (GPA 88.54/100, Top 10%).
 
 <span class='anchor' id='Publications'></span>
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Li Lab 2023</div><img src='images/ASCT2-1.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Identification of a Novel ASCT2 (SLC1A5) Inhibitor by Dynamic Pharmacophore-Based Virtual Screening (Manuscript in preparation)
-
-**Rui Chen**, Jiali Huang, Yumeng Chen, Lian Qin, Haoming Chen, Yuxiao Wang, Dongmei Huang, Zhiyu Li, Ahmed R. Ali, Jinlei Bian
-
-**Highlights**
-- Discovery of novel scaffold ASCT2 lead compounds through virtual screening and activity assaying workflows
-
-- Virtual screening workflows such as molecular dynamics simulations, molecular docking, and pharmacophore screening
-
-- Based on the lead compounds, studied the drug-target conformational relationship, combined with the protein crystal structure, through molecular docking and MD simulation, designed and synthesized 31 novel inhibitors
-
-- By screening for enzyme and cellular activity, obtained inhibitors with tumor cell inhibitory activity superior to positive drug V9302 in the same proliferation assay (IC₅₀ = 0.39 µM)
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Li Lab 2023</div><img src='images/CLK2-1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Discovery of CLKs Inhibitors for the Treatment of Non-small Cell Lung Cancer. _Eur. J. Med. Chem._ 2024, 280, 116952.](https://www.sciencedirect.com/science/article/abs/pii/S022352342400833X)
 
-Tianxing Hu¹, Jiangli Huang¹, **Rui Chen**¹, Hui Zhang¹, Mai Liu¹, Ran Wang¹, Wenyi Zhou¹, Dongmei Huang, Mengmeng Cao, Depeng Li, Zhiyu Li, Hongxi Wu, Jinlei Bian (Co-first author, ranked 3rd of six)
+Tianxing Hu¹, Jiangli Huang¹, **Rui Chen**¹, Hui Zhang, Mai Liu, Ran Wang, Wenyi Zhou, Dongmei Huang, Mengmeng Cao, Depeng Li, Zhiyu Li, Hongxi Wu, Jinlei Bian (Joint first author; one of three)
 
 **Highlights**
 - Design and synthesis of novel CLK2 inhibitors
@@ -324,9 +306,9 @@ Youquan Xie, Yucheng Tian, Yuming Zhang, Zhisheng Zhang, **Rui Chen**, Mian Li, 
 **2021-2022** | *DNA framework-engineered chimeras (DbTACs)*
 
 **Projects**
-- Participated in the synthesis and design of warhead compounds for DbTACs and screened several linkage chains of different lengths
+- Responsible for the synthesis, purification and characterization of the ligands used in DbTACs (CDK9 and CDK6 warheads, CRBN recruiter)
 
-- Complete protein-DNA docking in DbTACs to generate and optimize images for experiments
+- Contributed to the study showing that DNA-templated ligand spacing controls degradation efficiency
 
 </div>
 </div>
@@ -349,7 +331,7 @@ Youquan Xie, Yucheng Tian, Yuming Zhang, Zhisheng Zhang, **Rui Chen**, Mian Li, 
 
 - **CADD & AIDD:** structure-based design from virtual screening and MD through to synthesis (Schrödinger, MOE, Discovery Studio, AutoDock, GROMACS, PyMOL); completed a full design–synthesis–assay cycle against ASCT2 (31 compounds).
 
-- **AI & data:** apply LLM-based tools to literature mining, patent analysis and AI-assisted design; use AI for SAR reasoning, ADMET triage and docking/MD interpretation. Built a laboratory ELN and a literature-management tool (see [rechain-cr.github.io](https://rechain-cr.github.io)).
+- **AI & data:** apply LLM-based tools to literature mining, patent analysis and AI-assisted design; use AI for SAR reasoning, ADMET triage and docking/MD interpretation.
 
 - **Experimental:** independently design experiments and deliver target compounds, including complex polycyclic and chiral targets; TLC, recrystallization, column chromatography, and structure elucidation by ¹H NMR, MS and HPLC.
 
